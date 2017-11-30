@@ -6,9 +6,9 @@ rm -R output;
 asciidoctor -b html5 -a icons -a toc2 -a theme=flask book/main.adoc -D output/html/;
 rsync -zarv --include="*/" --include="*.jpg" --include="*.jpeg"  --include="*.png" --exclude="*" "book/" "output/html/"
 
-
 #publish dockbook
-asciidoctor -b docbook book/main.adoc -D output/docbook/;
+#asciidoctor -b docbook --doctype book book/main.adoc -D output/docbook/;
+#rsync -zarv --include="*/" --include="*.jpg" --include="*.jpeg"  --include="*.png" --exclude="*" "book/" "output/docbook/"
 
 #publish pdf
 asciidoctor -r asciidoctor-pdf -b pdf book/main.adoc -D output/pdf/;
