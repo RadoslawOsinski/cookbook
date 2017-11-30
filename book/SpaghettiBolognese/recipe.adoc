@@ -1,0 +1,15 @@
+== Spaghetti Bolognese
+=== SKŁADNIKI
+...
+
+=== Wykonanie
+...
+
+=== Fotografia z internetu
+[#SpaghettiBolognese1]
+.Spaghetti Bolognese
+//link:spaghettiBolognese1.jpg[link]
+image::./spaghettiBolognese1.jpg[Spaghetti bolognese,300,200,float="left"]
+[#SpaghettiBolognese2]
+.Spaghetti Bolognese
+image::./spaghettiBolognese2.jpeg[Spaghetti bolognese,300,200]

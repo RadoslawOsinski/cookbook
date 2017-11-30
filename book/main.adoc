@@ -1,0 +1,13 @@
+= Przepisy Radka Osińskiego
+:author: Radosław Osiński
+:email: Radoslaw.Osinski@gmail.com
+:numbered:
+Radosław Osiński <Radoslaw.Osinski@gmail.com>
+
+:toc:
+:imagesdir: SpaghettiBolognese
+include::SpaghettiBolognese/recipe.adoc[]
+
+:imagesdir: SpaghettiCarbonarra
+include::SpaghettiCarbonarra/recipe.adoc[]
+
