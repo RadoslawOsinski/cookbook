@@ -1,9 +1,15 @@
 == Spaghetti Bolognese
 === SKŁADNIKI
-...
+* 500 g makaronu spaghetti
+* 50 dkg mięsa mielone (wieprzowe/wołowe)
+* kawałek sera
+* Sól
+* Pieprz
+* Bazylia
+* Oregano
 
 === Wykonanie
-...
+Makaron gotujemy w solonej wodzie. Międzyczasie smażymy mięso. Na koniec dodajemy przyprawy.
 
 === Fotografia z internetu
 [#SpaghettiBolognese1]

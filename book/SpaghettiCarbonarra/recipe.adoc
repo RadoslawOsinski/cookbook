@@ -24,4 +24,4 @@ Do sosu przekładamy ugotowany makaron i dokładnie mieszamy. Bazylię drobno si
 === Fotografia z internetu
 [#SpaghettiCarbonarra1]
 .Spaghetti Carbonarra
-image::spaghettiCarbonarra1.png[Spaghetti carbonarra,300,200,float="left"]
+image::spaghettiCarbonarra1.png[Spaghetti carbonarra,300,200]

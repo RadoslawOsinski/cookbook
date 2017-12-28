@@ -11,3 +11,6 @@ include::SpaghettiBolognese/recipe.adoc[]
 :imagesdir: SpaghettiCarbonarra
 include::SpaghettiCarbonarra/recipe.adoc[]
 
+:imagesdir: Jambalaya
+include::Jambalaya/recipe.adoc[]
+
