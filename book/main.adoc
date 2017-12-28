@@ -20,3 +20,6 @@ include::DeserZOwocowLesnych/recipe.adoc[]
 :imagesdir: CiastoDoPizzy
 include::CiastoDoPizzy/recipe.adoc[]
 
+:imagesdir: Neapolitana
+include::Neapolitana/recipe.adoc[]
+

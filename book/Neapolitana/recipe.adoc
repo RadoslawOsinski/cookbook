@@ -1,0 +1,16 @@
+== Pizza neapolitana (todo)
+=== SKŁADNIKI
+* ciasto na pizzę
+* sos pomidorowy z czosnkiem i oregano
+* sól
+* mozzarella
+* Liście bazylii
+
+=== Wykonanie
+Na ciasto na pizzę dodajemy sos pomidorowy z dodatkami. Całość solimy. Mozarellę rozszarpujemy na pizzę. Ścieramy ser na tarce na całość.
+Dodajemy liście bazylii. Na koniec dodać oliwę z oliwek.
+Ciasto grzać od dołu w piekarniku z termoobiegiem w temperaturze 220C przez około 7 minut. Ciasto powinno być włożone do rozgrzanego piecyka.
+
+[#Neapolitana]
+.Neapolitana
+image::neapolitana.jpg[Neapolitana,300,200]
