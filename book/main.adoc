@@ -14,3 +14,6 @@ include::SpaghettiCarbonarra/recipe.adoc[]
 :imagesdir: Jambalaya
 include::Jambalaya/recipe.adoc[]
 
+:imagesdir: DeserZOwocowLesnych
+include::DeserZOwocowLesnych/recipe.adoc[]
+
