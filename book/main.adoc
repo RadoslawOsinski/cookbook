@@ -17,3 +17,6 @@ include::Jambalaya/recipe.adoc[]
 :imagesdir: DeserZOwocowLesnych
 include::DeserZOwocowLesnych/recipe.adoc[]
 
+:imagesdir: CiastoDoPizzy
+include::CiastoDoPizzy/recipe.adoc[]
+
