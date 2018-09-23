@@ -23,3 +23,6 @@ include::CiastoDoPizzy/recipe.adoc[]
 :imagesdir: Neapolitana
 include::Neapolitana/recipe.adoc[]
 
+:imagesdir: Gofry
+include::Gofry/recipe.adoc[]
+
